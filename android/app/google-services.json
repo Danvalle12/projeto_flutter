@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336908049924",
+    "project_id": "projeto-flutter-e5284",
+    "storage_bucket": "projeto-flutter-e5284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336908049924:android:3fff3f8dfb29b504975f51",
+        "android_client_info": {
+          "package_name": "sistema.agend.dan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336908049924-of0as3h4u8ec581rpkb70ma9l6njtg9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrRLjqzCHQjMvbppgZtZ_h5fyBNVKjOqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336908049924-of0as3h4u8ec581rpkb70ma9l6njtg9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
